@@ -1,4 +1,4 @@
-export const conversationData = [
+export const conversations = [
   {
     _id: "1",
     admin: "user1",
@@ -9,7 +9,7 @@ export const conversationData = [
     lastMessage: {
       _id: "1",
       messageType: "text",
-      content: "Hello everyone!",
+      content: "Hello everyone! Hello everyone!Hello everyone!",
       sender: "user1",
     },
     sender: "user1",
